@@ -1,0 +1,34 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(255, 211, 168);
+    color: rgb(255, 156, 188)
+}
+
+h1 {
+    color: rgb(255, 140, 0);
+    font-weight: 600;
+}
+
+.element {
+    border-style: dashed;
+    background-color: rgb(255, 240, 224);
+    border-color: rgb(159, 226, 191);
+    text-align: center;
+}
+
+dt {
+    font-weight: 1000;
+    font-size: x-large;
+    color: rgb(159, 226, 191);
+    background-color: rgb(255, 240, 224);
+    text-align: center;
+}
+
+dd {
+    font-weight: 100;
+    font-size: medium;
+    color: rgb(159, 226, 191);
+    background-color: rgb(255, 240, 224);
+    text-align: center;
+    margin-right: 40px;
+}
